@@ -1,0 +1,5 @@
+{
+  "lets_encrypt_url": "https://acme-staging-v02.api.letsencrypt.org/directory",
+  "monitor": { "directory": "certs" },
+  "update_interval_secs": 15
+}
